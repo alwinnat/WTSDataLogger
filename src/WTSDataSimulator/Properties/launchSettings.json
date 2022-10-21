@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WTSDataSimulator": {
+      "commandName": "Project",
+      "commandLineArgs": "-p COM3"
+    }
+  }
+}

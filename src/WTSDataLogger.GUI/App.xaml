@@ -1,0 +1,16 @@
+﻿<Application x:Class="WTSDataLogger.GUI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WTSDataLogger.GUI">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary>
+                    <local:Bootstrapper x:Key="Bootstrapper" />
+                </ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+
+            <local:InverseBoolConverter x:Key="inverseBoolConverter" />
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

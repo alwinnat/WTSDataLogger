@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WTSDataLogger.Commandline": {
+      "commandName": "Project",
+      "commandLineArgs": "-o C:\\Temp\\weights.csv -p COM4"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<Project>
+
+  <PropertyGroup>
+    <FileVersion>1.0.0.0</FileVersion>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <Version>1.0.0.0</Version>
+    <Copyright>Copyright (C) 2022 alwinnat</Copyright>
+  </PropertyGroup>
+
+</Project>
