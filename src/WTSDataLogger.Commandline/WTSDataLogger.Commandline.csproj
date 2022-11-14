@@ -18,8 +18,4 @@
     <ProjectReference Include="..\WTSDataLogger.Core\WTSDataLogger.Core.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Resource Include="Images\terminal.png" />
-  </ItemGroup>
-
 </Project>
